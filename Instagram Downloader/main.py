@@ -18,7 +18,7 @@ root.config(bg='#121212')
 #! TODO LIST
 
 # TODO => post Link Entry  ✔
-# TOdo => Download Button And make the user choose where to download the file
+# TOdo => Download Button And make the user choose where to download the file ✔
 
 
 #! Functions
@@ -77,3 +77,7 @@ exit_btn.place(relx=0.5, rely=0.6, anchor='c')
 
 #! Calling the Root Window's mainloop
 root.mainloop()
+
+
+#? Made By EXxZAM (mahdi Olamaei)
+#! Personal Project
